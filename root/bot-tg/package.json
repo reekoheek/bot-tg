@@ -1,0 +1,17 @@
+{
+  "name": "bot-tg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesha <reekoheek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^6.1.0",
+    "strip-ansi": "^2.0.1",
+    "supervisor": "^0.6.0",
+    "telegram-cli": "^0.1.0"
+  }
+}
